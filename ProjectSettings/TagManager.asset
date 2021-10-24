@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Planet
+  - Ship
+  - ThemeOption
+  - Rank
+  - Theme
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Objects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 707524705
+    locked: 0
+  - name: Planet
+    uniqueID: 646437487
+    locked: 0
+  - name: Ships
+    uniqueID: 1164450243
+    locked: 0
+  - name: UI
+    uniqueID: 859794085
+    locked: 0
+  - name: Smoke
+    uniqueID: 2707429779
+    locked: 0
+  - name: Overlay
+    uniqueID: 4016082017
+    locked: 0
